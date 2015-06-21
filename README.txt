@@ -31,7 +31,3 @@ This README is supposed to give general overview on the program implementation a
 		
 		If you decide to compile using cygwin simply do  
 		g++ -Wall -o "lamer"  ./src/*.cpp -I <path to lame headers> <path to>/libmp3lame.a -lpthread
-		
-		The EXE folder contains compiled binaries for both. 
-		The tests/testwav folder contains some small publicly available wave files (including broken ones) used for testing.
-		
